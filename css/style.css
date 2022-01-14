@@ -12,3 +12,10 @@ information header text 36px extra-bold                                 #1F2937
 Quote section background color #E5E7EB Quote text 36px light italic     #1F2937 
 
 */
+body{
+    background-color: #1f2937;
+}
+.main-title{
+    color: #f9faf8;
+    font-family: roboto;
+}
